@@ -18,6 +18,7 @@ class News{
             $newsItem = $result->fetch();
 
             return $newsItem;
+            //Ещё один коммент
             //Запрос к БД
         }
     }
